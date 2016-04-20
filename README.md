@@ -1,4 +1,4 @@
-This site is hosted at [http://cs107e.github.io/](http://cs107e.github.io/).
+This site is hosted at [https://cs68si.github.io/](https://cs68si.github.io/).
 
 To test locally:
 
